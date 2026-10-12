@@ -598,6 +598,9 @@ gradle/develocity-actions/setup-maven:
     expires_at: 2026-12-29
   f852d93dada312948b1ba533226c28e05d756866:
     tag: v2.4
+gradle/develocity-actions/setup-npm:
+  f852d93dada312948b1ba533226c28e05d756866:
+    tag: v2.4
 hadolint/hadolint-action:
   2332a7b74a6de0dda2e2221d575162eba76ba5e5:
     tag: v3.3.0
